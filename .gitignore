@@ -11,3 +11,6 @@ tests/_build/vc15/
 tools/_build/
 *.vcxproj.user
 .vs/
+/examples/engine_hello_world/x64
+/examples/engine_static_init/x64
+/x64
